@@ -1,0 +1,1 @@
+ return n+summ(n-1);
